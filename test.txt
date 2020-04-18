@@ -1,2 +1,2 @@
 This is git check
-New line to further check
+This line is for further checking. Поэтому я хочу проверить, как вносятся изменения в код.
